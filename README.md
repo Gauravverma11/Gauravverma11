@@ -1,4 +1,4 @@
-![logo] (https://github.com/Gauravverma11/Gauravverma11/blob/main/banner.png)
+
 <h1 align="center">Hello, I'm Gaurav Verma!👋</h1>
 <h3 align="center">A passionate Web developer </h3>
 
