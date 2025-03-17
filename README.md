@@ -28,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravverma11&show_icons=true&locale=en" alt="gauravverma11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravverma11&" alt="gauravverma11" /></p>
+
+
+### Random Quote ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
